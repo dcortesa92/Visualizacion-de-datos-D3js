@@ -1,1 +1,2 @@
 # Visualizacion-de-datos-D3js
+EL mapa de Madrid está clasificado dentro de una escala de color de acuerdo al precio promedio por barrio, cuenta con efecto “mouse over” y “Click”, en el caso del último, dependiendo del barrio seleccionado,  habilita y actualiza una gráfica de barras animada, en la cual se puede identificar en azul el  número de habitaciones que tiene menor cantidad de propiedades y en verde el que más.
